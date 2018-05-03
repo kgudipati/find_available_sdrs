@@ -11,5 +11,5 @@ Assumptions:
 - The program will read the csv file and create the DS every time. In the future, I would use something like the 'pickle' to store the DS internally.
 
 Running Program:
-The code is on github: www.github.com/kgudipati
+The code is on github: www.github.com/kgudipati/find_available_sdrs
 To run the program, simply enter 'python find_available_sdr.py'
